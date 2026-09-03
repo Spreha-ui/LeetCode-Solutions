@@ -11,13 +11,13 @@
  */
 
 void solve(TreeNode* root, long long sum, long long &totalsum) {
+    
+    sum = sum*10 + root->val;
+
     if(root->left == nullptr && root->right == nullptr) {
-        sum = sum*10 + root->val;
         totalsum = totalsum + sum;
         return;
     }
-
-    sum = sum*10 + root->val;
 
     if(root->left) {
         solve(root->left, sum, totalsum);
