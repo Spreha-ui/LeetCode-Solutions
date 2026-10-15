@@ -6,7 +6,7 @@ class Solution {
         
         vis[node] = 1;
 
-        vector<int> vec = adj[node];
+        vector<int> &vec = adj[node];
         for(auto i: vec) {
             if(vis[i] != 1) {
                 solve(i, adj, vis);
