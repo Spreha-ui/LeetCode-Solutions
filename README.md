@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0200-number-of-islands](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -57,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
