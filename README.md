@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -54,15 +56,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Spreha-ui/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
